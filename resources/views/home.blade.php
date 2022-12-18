@@ -9,16 +9,16 @@
 {{--                       title="Loan Book">--}}
 {{--                        <i class="fa fa-plus" aria-hidden="true"></i> Input Loan Book--}}
 
-                        <a href="{{ route('loan.index') }}" class="btn btn-success btn-sm" title="List Lend Books">
-                            <i class="fa fa-plus" aria-hidden="true"></i> List Lend Books
-                        </a>
+{{--                        <a href="{{ route('loan.index') }}" class="btn btn-success btn-sm" title="List Lend Books">--}}
+{{--                            <i class="fa fa-plus" aria-hidden="true"></i> List Lend Books--}}
+{{--                        </a>--}}
                         <div class="card">
                             <div class="card-header">Library</div>
 
                             <div class="card-body">
-                                <a href="{{ url('/admin/adminc') }}" class="btn btn-success btn-sm" title="Add New Book">
-                                    <i class="fa fa-plus" aria-hidden="true"></i> Add New Book
-                                </a>
+{{--                                <a href="{{ url('/admin/adminc') }}" class="btn btn-success btn-sm" title="Add New Book">--}}
+{{--                                    <i class="fa fa-plus" aria-hidden="true"></i> Add New Book--}}
+{{--                                </a>--}}
                                 <br/>
                                 <br/>
                                 <div class="table-responsive ">
